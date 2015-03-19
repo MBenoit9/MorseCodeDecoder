@@ -1,0 +1,9 @@
+ETET
+ETA
+ENT
+EK
+AET
+AA
+RT
+The total number number of possible translations is: 7
+This program took 119426 nanoseconds.
